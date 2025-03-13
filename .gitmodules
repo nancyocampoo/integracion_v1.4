@@ -1,0 +1,6 @@
+[submodule "mig_citas"]
+	path = mig_citas
+	url = https://github.com/nancyocampoo/mig_citas.git
+[submodule "mig_patient"]
+	path = mig_patient
+	url = https://github.com/nancyocampoo/mig_patient
